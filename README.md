@@ -35,50 +35,42 @@ ___
 ### 💻 linguagens e tecnologias 
 
 
-
-  <img 
+<img 
   align="left"
   alt="HTML"
   title="HTML"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
-  />
-          
-          
- <img
- align="left"
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+/>
+
+<img
+  align="left"
   alt="CSS"
   title="CSS"
   width="30px"
   style="padding-right: 10px;"
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
-  />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+/>
 
-
-  
-
- 
 <img
-align="left"
+  align="left"
   alt="JS"
-  title="JS"
+  title="JavaScript"
   width="30px"
   style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg" 
- />
-          
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
+/>
 
-
-          
 <img
-align="left"
-  alt="REACT"
-  title="REACT"
+  align="left"
+  alt="React"
+  title="React"
   width="30px"
   style="padding-right: 10px;"
- src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons//-.svg"
-  />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
+/>
+
           
 
 <br/>
