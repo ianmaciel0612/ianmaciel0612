@@ -1,6 +1,6 @@
 # 🧑‍💻 Ian Maciel 
 
-**'estudante de ciencias da computação'**
+**'Engenharia de Software'**
 
 Ian Maciel
 Estudante de Ciências da Computação | Desenvolvedor Front-End
