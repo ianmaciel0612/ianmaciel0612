@@ -3,9 +3,9 @@
 **'Engenharia de Software'**
 
 Ian Maciel
-Estudante de Ciências da Computação | Desenvolvedor Front-End
+Estudante de Engenharia de Software | Desenvolvedor Full Stack
 
-Olá! Meu nome é Ian Maciel, tenho 18 anos e sou apaixonado por tecnologia e programação. Atualmente, estudo Ciências da Computação, onde estou constantemente explorando novos conceitos e aprimorando minhas habilidades técnicas.
+Olá! Meu nome é Ian Maciel, tenho 20 anos e sou apaixonado por tecnologia e programação. Atualmente, estudo Engenharia de Software, onde estou constantemente explorando novos conceitos e aprimorando minhas habilidades técnicas.
 
 Trabalho como desenvolvedor front-end, criando interfaces funcionais e visualmente atrativas. Meu foco está em entregar experiências de usuário modernas e otimizadas, utilizando as melhores práticas e tecnologias atuais.
 
