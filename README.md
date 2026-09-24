@@ -65,9 +65,6 @@ Me chamo Ian Maciel, tenho 20 anos e sou estudante de Engenharia de Software na 
       <img width="30px" alt="Node.js" title="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg"/>
     </td>
     <td>
-      <img width="30px" alt="Express" title="Express" src="https://cdn.simpleicons.org/express/white"/>
-    </td>
-    <td>
       <img width="30px" alt="MongoDB" title="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg"/>
     </td>
     <td>
@@ -118,3 +115,11 @@ Me chamo Ian Maciel, tenho 20 anos e sou estudante de Engenharia de Software na 
     </td>
   </tr>
 </table>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/fazedordecodigo/fazedordecodigo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/fazedordecodigo/fazedordecodigo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+
