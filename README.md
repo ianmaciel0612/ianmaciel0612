@@ -87,36 +87,7 @@ Me chamo Ian Maciel, tenho 20 anos e sou estudante de Engenharia de Software na 
 
 ### 📊 Estatísticas
 
-<table>
-  <tr>
-    <td width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api?usernames=ianmaciel0612&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-        alt="Estatísticas do GitHub"
-      />
-    </td>
-    <td width="50%">
-      <img
-        width="100%"
-        src="https://github-readme-stats-multiuser.vercel.app/api/top-langs/?usernames=ianmaciel0612&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"
-        alt="Tecnologias mais utilizadas"
-      />
-    </td>
-  </tr>
 
-  <tr>
-    <td width="50%">
-      <img
-        width="100%"
-        src="https://streak-stats.demolab.com/?user=ianmaciel0612&theme=tokyonight"
-        alt="GitHub Streak"
-      />
-    </td>
-    <td width="50%">
-    </td>
-  </tr>
-</table>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/fazedordecodigo/fazedordecodigo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/fazedordecodigo/fazedordecodigo/output/github-contribution-grid-snake.svg#gh-light-mode-only)
